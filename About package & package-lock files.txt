@@ -1,0 +1,18 @@
+1> 3 ways to create package.json file:-
+--> creating it manually by naming file 'package.json'.
+--> by 'npm init' command and entering all information.
+--> by 'npm init -y' command which fills information by default.
+
+2> user defined command is written under "scripts" section of package.json file. 
+Eg:-
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js", --> run this by 'npm start' command.
+    "dev":"nodemon app.js" --> run this by 'npm run dev' command.
+  }
+
+3> dependencies installed for development and production are available inside "dependencies" section. We install this by 'npm i <packageName>' command
+
+4> dependencies installed for  only development are available inside "devDependencies" section. We install this by 'npm i <packageName> -D' or 'npm i <packageName> --save-dev' command.
+
+5> package-lock.json stores information about different packages version number present inside installed packages.

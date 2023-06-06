@@ -1,0 +1,3 @@
+1> Events are important part of Event-Driven Programming.
+2> In this we listen for specific events and register functions that will execute
+in response to those events.

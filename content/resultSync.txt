@@ -1,0 +1,5 @@
+Here is content :-
+ Hello this file is being used by FILE module.
+Hello this file is being used by FILE module synchronously.
+
+ learning NodeJS course

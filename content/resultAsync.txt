@@ -1,0 +1,4 @@
+Here is content :-
+ Hello this file is being used by FILE module.
+Hello this file is being used by FILE module synchronously.
+CORRECTION:- we are writing into file asynchronously

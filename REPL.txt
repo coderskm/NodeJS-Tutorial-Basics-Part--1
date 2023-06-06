@@ -1,0 +1,5 @@
+1> after installing NodeJS, just type 'node' in terminal 
+which will open REPL.
+2> inside REPL we can do basic JS stuff and test out our code.
+3> to exit REPL mode we can type '.exit' in terminal.
+4> REPL stands for Read Evaluate Print Loop.

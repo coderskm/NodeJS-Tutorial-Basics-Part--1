@@ -1,0 +1,7 @@
+1> Streams are mostly used to handle and manage streaming data like continuous data or big file.
+2> We have four types of streams:-
+--> Writeable - used to write data sequentially.
+--> Readable - used to read data sequentially.
+--> Duplex - used to do both read and write data sequentially.
+--> Transform - used to modify data when writing or reading.
+3> Streams and Events are used together.

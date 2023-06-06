@@ -1,0 +1,3 @@
+1> Event Loop allows NodeJS to perform non-blocking I/O operations by offloading operations
+to system kernel whenever possible.
+2> NodeJS receives lot of requests and processes all of them at same time but the time consuming request's callbacks are registered or offloaded and immediate or instant or less time consuming requests are resolved first and after that the registered callbacks are executed and their requests are resolved. In this way NodeJS processes requests faster.

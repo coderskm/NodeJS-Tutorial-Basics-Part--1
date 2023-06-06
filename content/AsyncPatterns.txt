@@ -1,0 +1,3 @@
+this file content written with help of promisify:- Hello this file is being used by FILE module.
+Hello this file is being used by FILE module synchronously.
+ 
